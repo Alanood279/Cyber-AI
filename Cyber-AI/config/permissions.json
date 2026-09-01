@@ -1,0 +1,12 @@
+{
+  "file_read": "allow",
+  "file_write": "ask",
+  "file_delete": "ask",
+  "shell_execute": "ask",
+  "package_install": "ask",
+  "internet_read": "allow",
+  "internet_write": "deny",
+  "git_commit": "ask",
+  "git_push": "deny",
+  "python_exec": "ask"
+}
